@@ -1,0 +1,6 @@
+[user]
+	name = Vladimir Galkin
+	email = v.g.galkin@gmail.com
+[alias]
+	st = status
+	history = log --graph
